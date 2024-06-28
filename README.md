@@ -6,4 +6,4 @@ run as root
 git clone https://github.com/webdragon63/Dragons-Rat.git
 cd Dragons-Rat
 ```
-## To run this tool simply type `bash Dragons-Rat.sh` on your linux terminal
+### To run this tool simply type `bash Dragons-Rat.sh` on your linux terminal
