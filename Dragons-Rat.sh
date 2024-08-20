@@ -7,7 +7,7 @@ else echo "Checking For Requirement Packages.." ;
 fi
 
 
-pkgs=(metasploit-framework apache2)
+pkgs=(metasploit-framework)
 for pkg in ${pkgs[@]}
 do
  sudo apt install $pkg
