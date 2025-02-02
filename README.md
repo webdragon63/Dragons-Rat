@@ -1,5 +1,6 @@
 # Tool interface
-![Screenshot at 2024-06-28 14-58-00](https://github.com/webdragon63/Dragons-Rat/assets/117004849/86364757-f6fb-42b0-901d-c8b733b5bc31)
+![Screenshot at 2025-02-02 12-47-49](https://github.com/user-attachments/assets/0a72175d-599f-45bf-8383-9f0ae28a73ce)
+
 
 # About this tool
 This is a simple tool for creating an android rat using metasploit libraries.
@@ -10,7 +11,8 @@ git clone https://github.com/webdragon63/Dragons-Rat.git
 cd Dragons-Rat
 ```
 ### To run this tool
-Simply run this command `bash Dragons-Rat.sh`
+First install all the requirements with this command `bash install_requirements.sh`
+After that simply run this command `bash Dragons-Rat.sh`
 
 # Created by
 INDIAN CYBER ARMY
