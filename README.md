@@ -4,6 +4,7 @@
 
 # About this tool
 This is a simple tool for creating an android rat using metasploit libraries.
+## Tested on Android 10. This tool may not work on the latest android versions like Android 14
 # Installation guide
 Run as root
 ```shell
