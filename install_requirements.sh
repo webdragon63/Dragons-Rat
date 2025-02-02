@@ -10,10 +10,14 @@ cp -r apktool /usr/local/bin
 cp -r apktool /usr/local/sbin
 cp -r apktool.jar /usr/local/bin
 cp -r apktool.jar /usr/local/sbin
+cp -r apktool /usr/sbin
+cp -r apktool.jar /usr/sbin
 chmod +x /usr/local/bin/apktool.jar
 chmod +x /usr/local/sbin/apktool.jar
 chmod +x /usr/local/bin/apktool
 chmod +x /usr/local/sbin/apktool
+chmod +x /usr/sbin/apktool
+chmod +x /usr/sbin/apktool.jar
 echo "Installing apksigner ..."
 apt install apksigner -y
 echo "Installation Complete ..."
