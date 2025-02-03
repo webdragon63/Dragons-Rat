@@ -3,7 +3,7 @@
 echo -e "\033[0;33m"
 echo "Executing the Payload Creator ..."
 echo -e "\033[0;36m"
-read -p "    Enter your IP Address ===> " ip
+read -p "    Enter your IP/Host Address ===> " ip
 read -p "    Enter listener port ===> " Port  
 read -p "|---Set the name and path to save the payload
 |----> " Path               
