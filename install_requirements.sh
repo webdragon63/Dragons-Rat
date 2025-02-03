@@ -22,4 +22,4 @@ echo "Installing apksigner ..."
 apt install apksigner -y
 echo "Installation Complete ..."
 sleep 1
-echo -e "Now you can able to\033[0;37m bind payloads\033[0;33m with any apk"
+echo -e "\033[0;33mNow you are able to\033[0;37m bind payloads\033[0;33m with any apk"
